@@ -1,0 +1,20 @@
+.container-fluid {
+    width: 90%;
+    margin: 0 auto;
+}
+.navbar img{
+    width: 51px;
+    height: 51px;
+}
+a.nav-link.abdullah-img img {
+    border-radius: 50%;
+}
+p.logo-p {
+    color: #fff;
+    font-size: 32px;
+    font-family: verdana;
+}
+ul.navbar-nav.ms-auto.mb-2.mb-lg-0.align-items-center a {
+    color: #fff;
+    font-size: 20px;
+}
