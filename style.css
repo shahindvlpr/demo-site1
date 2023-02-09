@@ -1,3 +1,6 @@
+body{
+    background-color: #F3F1FF;
+}
 .container-fluid {
     width: 90%;
     margin: 0 auto;
@@ -17,4 +20,64 @@ p.logo-p {
 ul.navbar-nav.ms-auto.mb-2.mb-lg-0.align-items-center a {
     color: #fff;
     font-size: 20px;
+}
+section.main-area{
+    width: 870px;
+    height: 700px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+.row.team img {
+    width: 56px;
+}
+.player-heading {
+    padding-top: 30px;
+}
+/* .row .team{
+    width: 870px;
+    margin: 0 auto;
+} */
+.hr-tag{
+    background-color: #E8E8E8;
+    height: 2px;
+}
+section.top-section,section.blog-section {
+    padding: 25px;
+    padding-top: 0;
+    margin-top: 30px;
+}
+.blog-img img{
+    width: 177px;
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+span.color {
+    color: #562EFF;
+}
+.course-img img{
+    width: 255px;
+}
+.course-area{
+    width: 870px;
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 30px;
+}
+.single-course-item {
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.star-list ul{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.star-list img{
+    width: 12.40px;
+}
+.star-list .clock-img img{
+    width: 20px;
+    margin-left: 15px;
 }
